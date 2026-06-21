@@ -1,4 +1,4 @@
-<h1 align="center">🌸✨ Kawaii Command-Line Calculator ✨🌸</h1>
+<h1 align="center">🌸✨ Command-Line Calculator ✨🌸</h1>
 
 <div align="center">
   <img src="https://media.tenor.com/E3v4j9VZuSwAAAAi/cute-cat-cat-typing.gif" width="200" alt="Cute Cat Typing">
