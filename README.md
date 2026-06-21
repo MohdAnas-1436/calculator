@@ -1,7 +1,7 @@
 <h1 align="center">🌸✨ Kawaii Command-Line Calculator ✨🌸</h1>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/Jk4ZT6R0OEUoM/giphy.gif](https://tse1.mm.bing.net/th/id/OIP.l-Kh9Xo9XBUnI4GYfc5DPQAAAA?r=0&cb=thfvnextfalcon2&rs=1&pid=ImgDetMain&o=7&rm=3)" width="200" alt="Cute Cat Typing">
+  <img src="https://media.tenor.com/E3v4j9VZuSwAAAAi/cute-cat-cat-typing.gif" width="200" alt="Cute Cat Typing">
   <br>
   <i>A super cute, simple, and powerful Python calculator for your terminal! 🐱🐾</i>
 </div>
